@@ -1,0 +1,10 @@
+.bar{
+  fill:blue;
+}
+.bar:hover{
+  fill:grey;
+}
+
+.axis{
+  font: 10px sans-serif
+}
